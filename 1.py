@@ -22,4 +22,4 @@ while (j < 9) and (h!=0):
 
 #for i in range(1,8):
 #caminho = int(input())
-#caminho = int(input())
+#caminho = int(input())aa
